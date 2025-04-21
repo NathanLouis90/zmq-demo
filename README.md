@@ -1,4 +1,4 @@
-## Compile
+## Compilation
 To compile the source files, use the following command:
 
 ```bash
