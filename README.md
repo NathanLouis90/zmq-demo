@@ -5,7 +5,7 @@ To compile the source files, use the following command:
 gcc -o server server.c -lczmq && gcc -o client client.c -lczmq
 ```
 
-This should generate the 'server' and 'client' executables.
+This should generate the `server` and `client` executables.
 
 ## Execution
 First, open up a terminal and run the 'server' executable by typing `./server` and you will get the following:
